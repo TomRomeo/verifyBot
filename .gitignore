@@ -1,2 +1,5 @@
 # stuff like bot tokens
 .env
+
+# log files
+*.log
