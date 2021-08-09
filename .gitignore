@@ -1,1 +1,2 @@
-.env        # stuff like bot tokens
+# stuff like bot tokens
+.env
